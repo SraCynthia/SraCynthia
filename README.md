@@ -1,7 +1,7 @@
 Olá! Bem-vindo ao meu perfil!
 
 - 💕Atualmente cursando Análise e Desenvolvimento de Sistemas   
-- 📫 Contate-me por: cynthiaranielle50@gmail.com  
+- 📫 Contate-me por: cynthiaranielle25@gmail.com  
 
 
 ##
