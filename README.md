@@ -8,8 +8,8 @@ Olá! Bem-vindo ao meu perfil.✨
 
 <div align="">
   <a href="">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cynthia&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynthia&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cynthia&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynthia&layout=compact&langs_count=7&theme=rose"/>
 </div>
 
 
