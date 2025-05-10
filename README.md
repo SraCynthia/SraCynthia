@@ -6,14 +6,12 @@ Olá! Bem-vindo ao meu perfil.✨
 
 ##
 
-<div align="">
+<div align="center">
   <a href="">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cynthia&theme=swift&show_icons=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cynthia&layout=compact&langs_count=7&theme=swift"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SraCynthia&theme=swift&show_icons=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SraCynthia&layout=compact&langs_count=7&theme=swift"/>
   </a>
 </div>
-
-
 
   
 <div style="display: inline_block"><br>
@@ -28,15 +26,24 @@ Olá! Bem-vindo ao meu perfil.✨
 
   
 </div> 
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/85a29b5019101495c7e7887324d786cc.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-        
-  ##
  
 <div> 
   <a href = "mailto:cynthiaranielle25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cynthia-ranielle-17662a246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/85a29b5019101495c7e7887324d786cc.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+<br clear="both">
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cynthia/cynthia/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cynthia/cynthia/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cynthia/cynthia/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
